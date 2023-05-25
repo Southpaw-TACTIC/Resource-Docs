@@ -4,7 +4,7 @@ description: Documentation for TACTIC REsource
 
 logo: "/tactic_resource.png"
 
-color_scheme: dark
+color_scheme: light
 
 # Aux links for the upper right navigation
 aux_links:
