@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Project Manager
-nav_order: 6
-has_children: true
+nav_order: 0
+parent: Manage Module
 ---
 
 
