@@ -11,8 +11,6 @@ color_scheme: light
 aux_links:
   "Navigate":
     - "navigate"
-  "Command Line":
-    - "command_line"
 
 search_enabled: true
 search:
