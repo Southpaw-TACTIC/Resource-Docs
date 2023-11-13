@@ -10,7 +10,11 @@ parent: Schedule Module
 
 The role manager allows you to create project planes using roles that you have defined in your organization.   A project plan consists of a list of roles that are require to complete a project.  Each role can lay out the number of days needed to work per week.
 
-The producer can use the role planner to plan out the requires of a project.
+
+![Role Planner](images/role_planner.png){: style="padding: 20px"}
+
+
+The role planner is the central place for managing an individual project.  A producer can use the role planner to plan out the requires of a project, balancing out the project with both bid days and budget.  Also, as the project is crewed, the producer can use the role planner compare their plan with the actual booking of crew.
 
 
 ## Loading a project.
@@ -40,6 +44,7 @@ A project schedule can be created from the beginning.  When a project is first l
 ## Importing a schedule
 
 The easiest way to import roles is to copy and paste the from a spreadsheet.
+
 
 
 ## Custom columns
