@@ -1,48 +1,40 @@
 ---
 layout: default
-title: Start
+title: Getting Started
 nav_order: 4
 has_children: true
 ---
 
 
-# Resource Quick Start
+Getting Started with Resource Manager
+=====================================
 
-You have a project and just want to get started?
+Welcome to the Resource Manager! This guide will walk you through the initial steps to set up your account and create your first project.
 
-This document is a good place to start if you want to see what TACTIC Resource is all about.  It will get you up an running quickly.
+Step 1: Registration
+Visit the Resource Manager website and click on the "Register" button.
+Fill out the registration form with your name, email address, and password.
+Click "Submit" to complete the registration process.
 
-With these instructions, you can get a project set up, working and collaborating with others on your team, whether your are in the same room on or on different continents.
+Step 2: Accessing the Role Planner
+After successful registration, you will be redirected to the Role Planner. Since you have not created any projects yet, the planner will be empty.
 
+Step 3: Creating a New Project
+A dialog box will appear, prompting you to create a new project.
+Fill in the following project details:
+Title: Enter a name for your project.
+Initials: Specify the initials for your project.
+Color: Choose a color to represent your project in the planner.
+Start Date: Select the start date for your project.
+End Date: Set the end date for your project.
+Click "Create Project" to finalize the creation process.
 
-## Registering an account
-
-Presently, the first account in an organization is created with the our help.  Please contact us a mailto:contact@southpawtech.com to get an account.
-
-
-We are currently working very closely with our initial customers.  As the software matures, we will open up the auto-register interfaces so that this process can be done without our involvement.
-
-## Create a project
-
-
-## Start with a template
-
-### Import roles
-
-
-
-### Import crew
-
-Download this template role spreadsheet and replace the data with your own data.  Then import the data into roles
+Step 4: Loading the Empty Project Plan
+Once you have created your project, the system will automatically load an empty project plan for your newly created project. You can now begin adding roles and allocating resources using the Role Planner.
 
 
-## Create a project
+Congratulations on setting up your first project in the Resource Manager! For more information on using the Role Planner and other features, refer to the respective sections in the documentation.
 
-
-## Plan a project
-
-
-## Crew a project
 
 
 
