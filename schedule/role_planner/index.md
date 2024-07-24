@@ -3,6 +3,7 @@ layout: default
 title: Role Planner
 nav_order: 1
 parent: Schedule Module
+has_children: true
 ---
 
 

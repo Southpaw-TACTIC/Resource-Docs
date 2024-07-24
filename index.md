@@ -1,6 +1,6 @@
 ---
-title: TACTIC Resource
 layout: default
+title: TACTIC Resource
 nav_order: 1
 has_chlildren: true
 ---

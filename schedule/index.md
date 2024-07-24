@@ -6,7 +6,7 @@ has_children: true
 ---
 
 
-# Schedule
+# Schedule Module
 
 The schedule module provides all the tools needed to manage the timeline projects.
 

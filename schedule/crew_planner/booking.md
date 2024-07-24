@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Crew Planner
+title: Booking The Crew
 nav_order: 2
-parent: Schedule Module
+parent: Crew Planner
 has_children: true
 ---
 

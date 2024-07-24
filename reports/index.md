@@ -1,3 +1,12 @@
+---
+layout: default
+title: Reports
+nav_order: 5
+has_children: true
+---
+
+
+
 # Financial Reporting
 
 The production resource management software tool offers robust financial reporting capabilities, allowing you to monitor project costs and make informed budget decisions. By comparing planned resources from the Role Planner to the actual work hours logged by crew members, you can derive accurate financial reports and gain valuable insights into project expenses.

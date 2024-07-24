@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Import Data
-nav_order: 2
-parent: Schedule Module
+nav_order: 1
+parent: Role Planner
 ---
 
 
