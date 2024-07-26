@@ -8,6 +8,7 @@ parent: Role Planner
 
 Managing Scenarios in the Role Planner
 ========================================
+
 The Role Planner within the Resource Manager application allows schedulers to create and manage multiple scenarios for a project. A published scenario is considered the official version and is visible to others, while unpublished scenarios serve various planning and assessment purposes.
 
 ## Uses of Scenarios
