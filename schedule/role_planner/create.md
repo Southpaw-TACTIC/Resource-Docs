@@ -76,6 +76,10 @@ When selecting the "+" button, the current days and the current label will be se
 
 **L**: sets the selected cells with the current label.
 
+**CTRL-Z**: undo the last operation
+
+**CTRL-Y**: redo the last operation
+
 ## Managing Labels
 
 Labels can help categorize project sub-sections, such as sequences or milestones, to provide better organization and visibility for project planning. Labels are customizable and can represent any desired categorization.
@@ -85,8 +89,33 @@ For more information about managing labels, navigate [here]({{ 'labels' }})
 
 ## Managing Scenarios
 
-Scenarios represent alternative project schedules or resource allocation plans. Each scenario enables administrators to explore different approaches to scheduling, resource distribution, and overall project planning.
+Scenarios represent alternative project schedules or resource allocation plans. Each scenario enables schedulers to explore different approaches to scheduling, resource distribution, and overall project planning.
 
 For more information about managing labels, navigate [here]({{ 'scenarios' }})
+
+
+
+## Managing a schedule
+
+After adding roles to a project in the Role Planner, schedulers can select cells and set the days and labels to create a comprehensive project schedule.
+
+Follow these steps to build a schedule in the Role Planner:
+
+Select the desired cells within the Role Planner timeline. You can choose individual cells or blocks of cells using the "Shift" key to select multiple cells.
+
+
+![Select Cells](images/select_cells.png){: style="width: 100%; padding: 20px"}
+
+
+Set the days for each role by adjusting the start and end dates as needed. This ensures that the project timeline accurately reflects the expected duration of each role within the project.
+
+![Set Days](images/set_days.png){: style="width: 100%; padding: 20px"}
+
+Apply labels to the selected cells to categorize project sub-sections or milestones, such as sequences or phases. This helps improve schedule organization and visibility for all stakeholders.
+
+![Set Labels](images/set_labels.png){: style="width: 100%; padding: 20px"}
+
+Continue selecting cells and setting days and labels for each role within the project, creating a detailed and organized project schedule.
+
 
 
