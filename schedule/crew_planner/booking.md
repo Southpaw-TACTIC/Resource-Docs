@@ -50,7 +50,7 @@ Confirm the booking by clicking the "Book" button.
 
 
 
-Managing Role Bookings
+## Managing Role Bookings
 
 To view or edit existing role bookings, navigate to the "User Schedules" view within the Crew Manager.
 

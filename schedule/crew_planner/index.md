@@ -46,5 +46,10 @@ By utilizing the Crew Planner, scehdulers can efficiently manage crew members' s
 
 
 
+## Links
+
+[Booking]({{ 'booking' }})
+
+
 
 

@@ -76,6 +76,10 @@ When selecting the "+" button, the current days and the current label will be se
 
 **L**: sets the selected cells with the current label.
 
+**CTRL-Z**: undo the last operation
+
+**CTRL-Y**: redo the last operation
+
 ## Managing Labels
 
 Labels can help categorize project sub-sections, such as sequences or milestones, to provide better organization and visibility for project planning. Labels are customizable and can represent any desired categorization.
@@ -85,8 +89,57 @@ For more information about managing labels, navigate [here]({{ 'labels' }})
 
 ## Managing Scenarios
 
-Scenarios represent alternative project schedules or resource allocation plans. Each scenario enables administrators to explore different approaches to scheduling, resource distribution, and overall project planning.
+Scenarios represent alternative project schedules or resource allocation plans. Each scenario enables schedulers to explore different approaches to scheduling, resource distribution, and overall project planning.
 
 For more information about managing labels, navigate [here]({{ 'scenarios' }})
+
+
+
+## Managing a schedule
+
+After adding roles to a project in the Role Planner, schedulers can select cells and set the days and labels to create a comprehensive project schedule.
+
+Follow these steps to build a schedule in the Role Planner:
+
+Select the desired cells within the Role Planner timeline. You can choose individual cells or blocks of cells using the "Shift" key to select multiple cells.
+
+
+![Select Cells](images/select_cells.png){: style="width: 100%; padding: 20px"}
+
+
+Set the days for each role by adjusting the start and end dates as needed. This ensures that the project timeline accurately reflects the expected duration of each role within the project.
+
+![Set Days](images/set_days.png){: style="width: 100%; padding: 20px"}
+
+Apply labels to the selected cells to categorize project sub-sections or milestones, such as sequences or phases. This helps improve schedule organization and visibility for all stakeholders.
+
+![Set Labels](images/set_labels.png){: style="width: 100%; padding: 20px"}
+
+Continue selecting cells and setting days and labels for each role within the project, creating a detailed and organized project schedule.
+
+
+
+## Requesting a Resource
+
+Schedulers can request specific crew members to fill project roles. These requests serve as an indication of the desired resources for each role, even if they are not yet confirmed to fit into the crew members' schedules.
+
+Follow these steps to request a crew member in the Role Planner:
+
+Locate the "Requested" column within the Role Planner interface.
+
+Double-click on the appropriate cell within the "Requested" column for the desired role and time period.  A pop-up window will appear, allowing you to type in the name of the requested crew member.
+
+![Request Crew Member](images/request_crew_member.png){: style="width: 100%; padding: 20px"}
+
+As you type, a list of matching crew members will appear, from which you can select the desired person.  If the requested crew member is not yet part of the crew or is a placeholder (e.g., "TBD"), you can manually enter the text in the pop-up window.
+
+Confirm your selection or input, and the requested crew member will be added to the cell in the "Requested" column.
+
+
+![Request TBD](images/requested_tbd.png){: style="width: 100%; padding: 20px"}
+
+
+
+
 
 
