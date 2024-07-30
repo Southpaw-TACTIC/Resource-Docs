@@ -119,3 +119,27 @@ Continue selecting cells and setting days and labels for each role within the pr
 
 
 
+## Requesting a Resource
+
+Schedulers can request specific crew members to fill project roles. These requests serve as an indication of the desired resources for each role, even if they are not yet confirmed to fit into the crew members' schedules.
+
+Follow these steps to request a crew member in the Role Planner:
+
+Locate the "Requested" column within the Role Planner interface.
+
+Double-click on the appropriate cell within the "Requested" column for the desired role and time period.  A pop-up window will appear, allowing you to type in the name of the requested crew member.
+
+![Request Crew Member](images/request_crew_member.png){: style="width: 100%; padding: 20px"}
+
+As you type, a list of matching crew members will appear, from which you can select the desired person.  If the requested crew member is not yet part of the crew or is a placeholder (e.g., "TBD"), you can manually enter the text in the pop-up window.
+
+Confirm your selection or input, and the requested crew member will be added to the cell in the "Requested" column.
+
+
+![Request TBD](images/requested_tbd.png){: style="width: 100%; padding: 20px"}
+
+
+
+
+
+

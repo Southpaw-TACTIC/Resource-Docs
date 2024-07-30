@@ -12,6 +12,14 @@ has_chlildren: true
 
 ## Overview of the Resource Manager
 
+
+The Resource Manager is a comprehensive web-based production management solution designed to optimize project planning, resource allocation, and financial reporting for organizations seeking efficient project management. This centralized platform addresses complex project tasks, equipping decision-makers with real-time data-driven insights to maximize project efficiency, optimize resource utilization, and maintain budgetary control.
+Integrating project timelines, crew scheduling, and budget tracking, the Resource Manager enables executives to confidently navigate production management challenges. Its intuitive design and robust features foster collaboration and transparency, facilitating effective communication and proactive problem-solving. With the Resource Manager, organizations can elevate their production management processes, making data-driven decisions that contribute to timely project delivery, high-quality results, and controlled financial performance.
+
+
+
+## Components of Resource
+
 The Resource Manager is a web-based production resource management software tool designed to streamline project planning, resource allocation, and financial reporting. Its primary components include the Role Planner, Crew Planner, and financial reporting features.
 
 The Role Planner enables users to efficiently allocate resources within a project by providing a comprehensive view of the project timeline. Users can create and assign roles, customize role attributes, allocate roles to specific periods on the timeline, and track the progress of each role throughout the project.
