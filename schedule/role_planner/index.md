@@ -51,5 +51,7 @@ The Role Planner is a powerful tool for efficient resource allocation and projec
 
 [Scenarios]({{ 'scenarios' }})
 
+[Display Modes]({{ 'display_modes' }})
+
 [Labels]({{ 'labels' }})
 
