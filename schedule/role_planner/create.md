@@ -12,6 +12,7 @@ To create a schedule in the Role Planner, schedules first need to add roles to a
 
 By adding roles to the project schedule within the Crew Planner, schedulers can effectively define the scope and resource requirements of a project. This information serves as the foundation for managing resource allocation, capacity planning, and crew member scheduling within the Resource Manager application.
 
+Note that this describes the process of creating a schedule from the beginning.  It is often preferable to first create a schedule in a spreadsheet and then importing the data into the role planner.  Go [here]({{ 'import_data' }}) for instructions on how to import data.
 
 
 ## Loading a project
@@ -69,6 +70,10 @@ When selecting the "+" button, the current days and the current label will be se
 **1-9**: sets the selected cells with the corresponding number of days.
 
 **0**: sets the cell to zero days
+
+**Up Arrow**: increment selected days by 1
+
+**Down Arrow**: increment selected days by 1
 
 **Delete**: sets the cell to zero days
 

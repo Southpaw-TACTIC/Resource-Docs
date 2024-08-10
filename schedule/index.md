@@ -13,7 +13,7 @@ The schedule module provides all the tools needed to manage the timeline project
 This includes the "Role Planner", "Crew Planner", and "Work Hours"
 
 
-## Role Planner
+## [Role Planner]({{ 'role_planner' }})
 
 The Role Planner is designed to facilitate efficient allocation of resources within a project. The planner provides a comprehensive view of the project timeline, allowing you to effectively manage roles and their respective schedules.
 
@@ -30,7 +30,7 @@ Overview and Reporting: Monitor project progress and resource allocation with an
 By leveraging the Role Planner, you can effectively manage project roles, allocate resources efficiently, and maintain a clear overview of your project's timeline, ultimately streamlining production resource management.
 
 
-## Crew Planner
+## [Crew Planner]({{ 'crew_planner' }})
 
 The Crew Planner allows you to visualize and manage crew allocation for your project. By integrating with the Role Planner, the Crew Planner provides a comprehensive view of your crew and their respective schedules, enabling efficient resource management and planning.
 
@@ -49,7 +49,8 @@ Adaptive Scheduling: Quickly adjust crew schedules with intuitive drag-and-drop 
 The Crew Planner streamlines crew management by providing a clear view of your project's resource allocation. By overlaying role plans onto crew schedules, you can ensure roles are filled effectively and make informed decisions to optimize the use of your crew and maintain project timelines.
 
 
-## Work Hours
+## [Work Hours]({{ 'work_hours' }})
+
 
 The Work Hours View enables you to monitor and manage crew work hours. This feature provides a comprehensive view of the hours logged by each crew member, allowing you to track progress, identify potential issues, and ensure crew members are working within their allotted timeframes.
 
