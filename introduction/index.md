@@ -6,7 +6,7 @@ has_children: true
 ---
 
 
-![TACTIC Resource Logo](images/tactic_resource.png){: style="padding: 20px"}
+![TACTIC Resource Logo](../images/tactic_resource.png){: style="padding: 20px"}
 
 
 # Resource Manager Contents

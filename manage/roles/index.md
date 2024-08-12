@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Role Manager
 nav_order: 1
 parent: Manage Module
